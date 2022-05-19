@@ -1,12 +1,14 @@
 <div align="center" height="600px">
    <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Anderson</h1>
 </div>
-<img align="right" height="240px" width="300px" alt="GIF" src="https://media.giphy.com/media/TcdpZwYDPlWXC/giphy.gif" frameBorder="0" />
+<div>
+<!--    <img align="right" height="240px" width="300px" alt="GIF" src="https://media.giphy.com/media/TcdpZwYDPlWXC/giphy.gif" frameBorder="0" /> -->
 
-- 💻 I'm currently working as a Full Stack Developer
-- 🌱 I’m currently learning Dart and Next.js
-- 🎮 RPG gaming, 🧙‍♂️ LOTR and ☄️ Astronomy lover
-- 📫 How to reach me: andersonmmdev@gmail.com
+   - 💻 I'm currently working as a Full Stack Developer
+   - 🌱 I’m currently learning Next.js and Expo
+   - 🎮 RPG gaming, 🧙‍♂️ LOTR and ☄️ Astronomy
+   - 📫 How to reach me: andersonmmdev@gmail.com
+</div>
 
 <br/>
 <br/>
@@ -38,7 +40,7 @@
 <br/>
 
 <div align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmdev&theme=synthwave" alt="anderson-lang" /></p>
+   <img align="center" alt="anderson-lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmdev&langs_count=8&theme=synthwave&layout=compact"/>
   <!--<p><img src="https://github-readme-stats.vercel.app/api?username=andersonmdev&show_icons=true&theme=synthwave" alt="anderson-lang" /></p>-->
 </div>
 <!--
