@@ -3,7 +3,7 @@
 </div>
 
 <div>
-   <img align="right" height="200px" width="210px" alt="GIF" src="https://media.giphy.com/media/TcdpZwYDPlWXC/giphy.gif" frameBorder="0" />
+   <img align="right" height="200px" width="320px" alt="GIF" src="https://media.giphy.com/media/TcdpZwYDPlWXC/giphy.gif" frameBorder="0" />
    
    <p> - 💻 I'm currently working as a Full Stack Developer </p>
    <p> - 🌱 I’m currently learning Next.js and Expo </p>
