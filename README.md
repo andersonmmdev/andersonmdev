@@ -44,6 +44,6 @@
   </div>
   <br/>
   <div>
-      <img align="center" alt="anderson-lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmdev&langs_count=8&theme=synthwave"/>
+      <img align="center" alt="anderson-lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmdev&langs_count=10&theme=synthwave&layout=compact"/>
   </div>
 </div>
