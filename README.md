@@ -6,7 +6,7 @@
    <img align="right" height="200px" width="320px" alt="GIF" src="https://media.giphy.com/media/TcdpZwYDPlWXC/giphy.gif" frameBorder="0" />
    
    <p> - 💻 I'm currently working as a Full Stack Developer </p>
-   <p> - 🌱 I’m currently learning Next.js and Expo </p>
+   <p> - 🌱 I’m currently learning Expo </p>
    <p> - 🎮 RPG gaming, 🧙‍♂️ LOTR and ☄️ Astronomy </p>
    <p> - 📫 How to reach me: andersonmmdev@gmail.com </p>
 </div>
