@@ -6,7 +6,7 @@
    <img align="right" height="200px" width="320px" alt="GIF" src="https://media.giphy.com/media/TcdpZwYDPlWXC/giphy.gif" frameBorder="0" />
    
    <p> - 💻 I'm currently working as a Full Stack Developer </p>
-   <p> - 🌱 I’m currently learning Expo </p>
+   <p> - 🌱 I’m currently learning <a href="https://expo.dev/" target="_blank">Expo</a> </p>
    <p> - 🎮 RPG gaming, 🧙‍♂️ LOTR and ☄️ Astronomy </p>
    <p> - 📫 How to reach me: andersonmmdev@gmail.com </p>
 </div>
@@ -44,6 +44,6 @@
   </div>
   <br/>
   <div>
-      <img align="center" alt="anderson-lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmdev&langs_count=8&theme=synthwave&layout=compact"/>
+      <img align="center" alt="anderson-lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmdev&langs_count=8&theme=synthwave"/>
   </div>
 </div>
