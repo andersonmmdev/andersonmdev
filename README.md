@@ -6,7 +6,7 @@
    <img align="right" height="200px" width="320px" alt="GIF" src="https://media.giphy.com/media/TcdpZwYDPlWXC/giphy.gif" frameBorder="0" />
    
    <p> - 💻 I'm currently working as a Full Stack Developer </p>
-   <p> - 🌱 I'm currently studying <a href="https://nestjs.com/" target="_blank">NestJS</a>
+   <p> - 🌱 I'm currently studying <a href="https://nestjs.com/" target="_blank">NestJS</a> and <a href="https://expo.dev" target="_blank">Expo</a>
    <p> - 🧙‍♂️ A wizard is never late, nor is he early, he arrives precisely when he means to</p>
    <p> - 📫 How to reach me: andersonmmdev@gmail.com </p>
 </div>
