@@ -1,19 +1,15 @@
 <div align="center" height="600px">
    <h1>Hello there, I'm Anderson <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" height="25"></h1>
 </div>
-
 <div>
-   <img align="right" height="200px" width="320px" alt="GIF" src="https://media.giphy.com/media/TcdpZwYDPlWXC/giphy.gif" frameBorder="0" />
-   
+   <img align="right" height="196px" width="320px" alt="GIF" src="https://media.giphy.com/media/TcdpZwYDPlWXC/giphy.gif" frameBorder="0" />
    <p> - 💻 I'm currently working as a Full Stack Developer </p>
    <p> - 🧙‍♂️ A wizard is never late, nor is he early, he arrives precisely when he means to</p>
    <p> - 📫 How to reach me: andersonmmdev@gmail.com </p>
 </div>
-
 <br/>
-
 <h2 align="left">Languages and Technologies 🛠 </h2>
-
+<br/>
 <div align="center">
   <div>
     <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -45,15 +41,12 @@
     <img alt="anderson-lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmdev&langs_count=6&theme=synthwave&layout=compact"/>
   </div>
 </div>
-
 <div align="center">
    
    ![Snake animation](https://github.com/Andersonmdev/andersonmdev/blob/output/github-contribution-grid-snake.svg)
    
 </div>
-
 <br/>
-
 <div align="left">
   <a href="mailto:andersonmmdev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
