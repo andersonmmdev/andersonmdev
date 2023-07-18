@@ -41,11 +41,11 @@
     <img alt="anderson-lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmdev&langs_count=6&theme=synthwave&layout=compact"/>
   </div>
 </div>
-<div align="center">
+<!-- <div align="center">
    
    ![Snake animation](https://github.com/Andersonmdev/andersonmdev/blob/output/github-contribution-grid-snake.svg)
    
-</div>
+</div> -->
 <br/>
 <div align="left">
   <a href="mailto:andersonmmdev@gmail.com" target="_blank">
