@@ -9,6 +9,7 @@
 </div>
 <br/>
 <br/>
+<br/>
 <h2 align="left">Languages and Technologies 🛠 </h2>
 <br/>
 <div align="center">
