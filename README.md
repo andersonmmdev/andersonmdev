@@ -40,8 +40,9 @@
   </div>
   <br/>
   <div>
-    <img alt="anderson-lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmdev&langs_count=6&theme=synthwave&layout=compact"/>
+     <img alt="anderson-lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmdev&langs_count=6&theme=synthwave&layout=compact"/>
   </div>
+  <img alt="anderson-stats" width=400 src='https://github-readme-stats.vercel.app/api?username=andersonmdev&theme=synthwave&show_icons=true&hide=issues,contribs&rank_icon=github' />
 </div>
 <br/>
 <div align="left">
